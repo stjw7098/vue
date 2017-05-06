@@ -8,5 +8,6 @@
 | Article | |
 | --------- | --------- |
 |[Vuex详解](https://github.com/stjw7098/vue/issues/4)|[vue原生ajax请求](https://github.com/stjw7098/vue/issues/3)|
-|[vue自定义过滤器 显示当前时间](https://github.com/stjw7098/vue/issues/2)|[自定义vue下拉刷新组件](https://github.com/stjw7098/vue/issues/1)||
+|[vue自定义过滤器 显示当前时间](https://github.com/stjw7098/vue/issues/2)|[自定义vue下拉刷新组件](https://github.com/stjw7098/vue/issues/1)|
+|[vue引入swiper](https://github.com/stjw7098/vue/issues/5)|[自定义Touch指令](https://github.com/stjw7098/vue/issues/6)|
 

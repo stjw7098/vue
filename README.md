@@ -14,3 +14,7 @@
 |[vue-router2 三级路由嵌套](https://github.com/stjw7098/vue/issues/9)|[vue-router0.7版本使用详解](https://github.com/stjw7098/vue/issues/10)|
 |[webpack.config.js详解](https://github.com/stjw7098/vue/issues/11)|
 
+## 参考资料
+| link | |
+| --------- | --------- |
+|[Vue官网](http://cn.vuejs.org)|[Vue论坛](http://forum.vuejs.org)|[Awesome-vue](https://github.com/vuejs/awesome-vue)|
